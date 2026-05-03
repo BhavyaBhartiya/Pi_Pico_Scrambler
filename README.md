@@ -1,2 +1,2 @@
 # Pi_Pico_Scrambler
-This is a simple program that scrambles whatever you type in and displays the scrambled message.
+This system uses buttons to input Morse code, decodes the signals into text, encrypts it using a Caesar cypher, and displays the result on an OLED screen.
