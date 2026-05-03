@@ -5,4 +5,4 @@ This is a project based on the Raspberry Pi Pico W that uses buttons to input Mo
 ![gif](./attachments/Demo.gif)
 
 ## Demo Link: -
-![Wokwi Demo Link](https://wokwi.com/projects/462636743026749441)
+![link](https://wokwi.com/projects/462636743026749441)
